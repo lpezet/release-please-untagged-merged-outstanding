@@ -1,0 +1,10 @@
+{
+  "packages": {
+    "projectA": {
+      "release-type": "node"
+    },
+    "projectB": {
+      "release-type": "node"
+    }
+  }
+}
