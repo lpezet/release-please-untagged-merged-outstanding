@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.3](https://github.com/lpezet/release-please-untagged-merged-outstanding/compare/project-a-v1.0.2...project-a-v1.0.3) (2024-07-22)
+
+
+### Bug Fixes
+
+* fixed projectA getHello(). ([0663d28](https://github.com/lpezet/release-please-untagged-merged-outstanding/commit/0663d285612670109b2834c3f427e88c89277152))
+
 ## [1.0.2](https://github.com/lpezet/release-please-untagged-merged-outstanding/compare/project-a-v1.0.1...project-a-v1.0.2) (2024-07-21)
 
 
